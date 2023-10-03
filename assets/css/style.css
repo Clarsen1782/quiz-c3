@@ -1,0 +1,43 @@
+* {
+    color: rgb(122, 242, 242);
+    background-color: black;
+    border-radius: 1rem;
+    width: 500px;
+    margin: 1rem auto;
+  }
+  h1 {
+    text-align: center;
+    font-size: 50px;
+  }
+  h3 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  }
+  img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+  }
+  #playButton {
+    background-color: blueviolet;
+  }
+  #submit {
+    background-color: green;
+  }
+
+#begin {
+    background-color: blue;
+}
+
+#questions {
+    background-color: black;
+    color: red;
+    justify-content: center;
+    align-items: center;
+}
+
+#submit {
+    background-color: blueviolet;
+}
