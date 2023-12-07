@@ -164,9 +164,4 @@ function displayQuestion(index) {
   }
 }
 
-submitButtonEl.on("click", function () {
-  if (currentQuestionIndex === questionsArray.length) {
-    alert("All questions answered! Quiz completed.");
-    endQuiz();
-  }
-});
+
